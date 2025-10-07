@@ -5,8 +5,8 @@ public class TestMain {
         Student s3 = new Student();
 
         s1.setStudentId(1);
-        s1.setStudentName("Alice");
-        s1.setCity("New York");
+        s1.setStudentName("Amaran");
+        s1.setCity("Chennai");
         s1.setMarks1(85);
         s1.setMarks2(78);
         s1.setMarks3(90);
@@ -14,8 +14,8 @@ public class TestMain {
         s1.setIsEligibleForScholarship(true);
 
         s2.setStudentId(2);
-        s2.setStudentName("Bob");
-        s2.setCity("Los Angeles");
+        s2.setStudentName("Vignesh");
+        s2.setCity("Hyderabad");
         s2.setMarks1(65);
         s2.setMarks2(70);
         s2.setMarks3(68);
@@ -23,8 +23,8 @@ public class TestMain {
         s2.setIsEligibleForScholarship(false);
 
         s3.setStudentId(3);
-        s3.setStudentName("Charlie");
-        s3.setCity("Chicago");
+        s3.setStudentName("Veeresh");
+        s3.setCity("Chennai");
         s3.setMarks1(95);
         s3.setMarks2(88);
         s3.setMarks3(92);
@@ -61,3 +61,4 @@ public class TestMain {
         }
     }
 }
+
